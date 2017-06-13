@@ -40,7 +40,7 @@ Aiken Interactive is a web agency with its own production studios and with full 
   - integrate templates into AikenCMS, Magento, Wordpress
   - maintenance of existing projects
   - UI prototyping
-  - make email newslatter templates
+  - make email newsletter templates
 
 #### Frontend Developer at [VisaHQ](http://visahq.com) (June 2009 – September 2012) 
 VisaHQ provides online visa services and U.S. passport solutions enabling travelers to apply online for visas to virtually any country in the world.
