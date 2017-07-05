@@ -3,10 +3,11 @@ Pavel Popov
 
 - - -
 Ukraine, Kiev &nbsp;
-+38 (099) 465 0 462 &nbsp;
++38&nbsp;(099)&nbsp;465&nbsp;0&nbsp;462 &nbsp;
 pashachee@gmail.com &nbsp;
+skype: hbpashok &nbsp;
 [linkedin.com/in/pashachee](http://www.linkedin.com/in/pashachee) &nbsp;
-[PDF version](https://raw.githubusercontent.com/pashachee/cv/master/pavel-popov.pdf)
+[Download&nbsp;PDF&nbsp;version](https://raw.githubusercontent.com/pashachee/cv/master/pavel-popov.pdf)
 - - -
 
 Summary
