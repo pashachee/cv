@@ -15,7 +15,7 @@ The key things that I follow in my work are: attention to detail, compatibility,
 
 Skills
 ----------
-HTML, CSS, Pug, SASS, Stylus, PostCSS, BEM, SMACSS, JavaScript, jQuery, Node.js, React, Vue, JSX, Webpack, Gulp, Bootstrap, Foundation, PHP, Yii, Git, Linux, Docker, Jira, TeamCity, Sketch, Photoshop, intermediate&nbsp;English&nbsp;(written&nbsp;and&nbsp;spoken)
+HTML, CSS, Pug, SASS, Stylus, PostCSS, BEM, SMACSS, JavaScript, jQuery, Node.js, React, Vue, JSX, Webpack, Gulp, Bootstrap, Foundation, PHP, Yii, Git, Linux, Docker, Jira, Trello, TeamCity, Sketch, Photoshop, intermediate&nbsp;English&nbsp;(written&nbsp;and&nbsp;spoken)
 
 Experience
 ----------
